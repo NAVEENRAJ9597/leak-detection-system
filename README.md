@@ -1,2 +1,2 @@
 # leak-detection-system
-leak detection system in under water 
+a leak detection system using copper coplanar lines, designed to identify fluid leaks in pipelines and fluid transportation systems with high sensitivity and reliability. The system leverages the electrical properties of copper coplanar transmission lines to detect the presence of liquid through changes in capacitance and impedance when leaks occur. By embedding the coplanar lines along critical sections of the pipeline, the system provides real-time monitoring and early detection, minimizing fluid loss and preventing infrastructure damage. 
